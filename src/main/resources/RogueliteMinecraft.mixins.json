@@ -3,7 +3,8 @@
 	"package": "com.melat0nin.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"ChunkMapAccessor"
 	],
 	"injectors": {
 		"defaultRequire": 1
